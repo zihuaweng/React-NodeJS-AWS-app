@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# React-NodeJS-AWS-app
+This is an demo using NodeJS, React and AWS (API Gateway, Lambda, DynamoDB, S3) from https://www.youtube.com/watch?v=Bro0uFVDrWY. I will change it to my real app later.
+>>>>>>> 804c9612c54c656e7c79dedcf49bef5e3a1dcb63
